@@ -2,4 +2,9 @@
 Meu Primeiro repositório na aula de PI
 
 
-ALterando o repositório remotamente
+Alterando o repositório remotamente
+
+
+Alterando o repositório localmente
+
+s
