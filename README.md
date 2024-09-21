@@ -1,4 +1,4 @@
-# meu-primeiro-repo-pi2
+# meu-primeiro-repo-pi
 Meu Primeiro repositório na aula de PI
 
 
